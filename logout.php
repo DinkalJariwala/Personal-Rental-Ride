@@ -1,5 +1,5 @@
 <?php
     session_start();
-    unset($_SESSION['owner']);
-    header("location:login_seller.php");
+    unset($_SESSION['user']);
+    header("location:login.php");
 ?>
