@@ -1,0 +1,1 @@
+<footer class="footer"> 2024 © Personal Rental Ride. </footer>
